@@ -74,6 +74,7 @@ header{
   display: flex;
   gap: 40px;
   
+  
 }
 .nav-link{
   padding: 24px 0;
@@ -89,6 +90,7 @@ header{
   font-size:18px;
   line-height: 1.3125em;
   letter-spacing:3%;
+  color: #2E2F42;
 }
 
 .adres {
