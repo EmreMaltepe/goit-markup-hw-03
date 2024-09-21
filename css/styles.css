@@ -28,7 +28,7 @@ body {
   max-width: 1440px;
   align-items: center;
   margin: 0 auto;
-  padding: auto;
+  padding: 15px;
   
 }
 header{
@@ -40,7 +40,7 @@ header{
   display: flex;
   max-width: 1158px;
   margin: 0 auto;
-  padding: auto;
+  padding: 15px;
   align-items: center;
   justify-content: space-between;
   padding-top: 25px;
